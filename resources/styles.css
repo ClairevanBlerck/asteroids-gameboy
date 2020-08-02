@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(161, 159, 159);
+}
+
+#container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+#my-canvas {
+    background-color: rgb(252, 249, 249);
+    border: 1px solid black;
+}
